@@ -1,0 +1,11 @@
+node_modules
+test-results
+*.html
+*.log
+*.tmp
+screenshots
+videos
+results
+package-lock.json
+mochawesome-report
+
